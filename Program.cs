@@ -6,7 +6,7 @@ namespace Bloco_de_Notas
     {
         static void Main()
         {
-            
+            Console.WriteLine("TESTE");
         }
     }
 }

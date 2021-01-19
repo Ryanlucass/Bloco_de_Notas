@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\bin\Debug\net5.0\Bloco_de_Notas.exe
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\bin\Debug\net5.0\Bloco_de_Notas.deps.json
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\bin\Debug\net5.0\Bloco_de_Notas.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\bin\Debug\net5.0\Bloco_de_Notas.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\bin\Debug\net5.0\Bloco_de_Notas.dll
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\bin\Debug\net5.0\ref\Bloco_de_Notas.dll
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\bin\Debug\net5.0\Bloco_de_Notas.pdb
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\obj\Debug\net5.0\Bloco_de_Notas.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\obj\Debug\net5.0\Bloco_de_Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\obj\Debug\net5.0\Bloco_de_Notas.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\obj\Debug\net5.0\Bloco_de_Notas.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\obj\Debug\net5.0\Bloco_de_Notas.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\obj\Debug\net5.0\Bloco_de_Notas.dll
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\obj\Debug\net5.0\ref\Bloco_de_Notas.dll
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\obj\Debug\net5.0\Bloco_de_Notas.pdb
+C:\Users\lucas\OneDrive\Documentos\GitHub\Bloco_de_Notas\obj\Debug\net5.0\Bloco_de_Notas.genruntimeconfig.cache
